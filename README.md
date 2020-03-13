@@ -1,6 +1,8 @@
 TzStats - API Documentation
 ============================
 
+https://tzstats.com/docs/api/index.html#introduction
+
 This is the markdown documentation for the TzStats Indexer API. Build with `hugo`
 
 ### Setup and Write
